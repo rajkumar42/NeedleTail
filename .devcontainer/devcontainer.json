@@ -1,0 +1,4 @@
+{
+    "name": "needle tail dc",
+    "dockerFile": "../Dockerfile"
+}
